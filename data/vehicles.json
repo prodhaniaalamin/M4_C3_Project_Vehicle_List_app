@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Toyota Corolla 2020",
+        "type": "Car",
+        "price": "3400000",
+        "image": "https:\/\/api.valogari.com\/api\/upload\/images\/whatsapp-image-2023-05-27-at-10-8acf.jpeg"
+    },
+    {
+        "name": "Toyota Camry 2013",
+        "type": "Car",
+        "price": "3050000",
+        "image": "https:\/\/api.valogari.com\/api\/upload\/images\/whatsapp-image-2023-06-05-at-6-2ce3.jpeg"
+    },
+    {
+        "name": "Toyota Allion 2007",
+        "type": "Car",
+        "price": "2900000",
+        "image": "https:\/\/api.valogari.com\/api\/upload\/images\/whatsapp-image-2023-05-27-at-10-a226.jpeg"
+    },
+    {
+        "name": "Toyota Noah 2002",
+        "type": "Micro Bus",
+        "price": "590000",
+        "image": "https:\/\/api.valogari.com\/api\/upload\/images\/01c9f076-3a14-4a28-a580-45a01b2ef730-2aa5.jpg"
+    },
+    {
+        "name": "Toyota Prius 2019",
+        "type": "Car",
+        "price": "3450000",
+        "image": "https:\/\/api.valogari.com\/api\/upload\/images\/whatsapp-image-2023-05-25-at-5-3c02.jpeg"
+    }
+]
